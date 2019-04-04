@@ -1014,6 +1014,15 @@ a.hero-section {
 .footer-section .copyright p a:hover {
 	color: #f6783a;
 }
+.footer-section div {
+	text-align: center;
+	padding-top: 20px;
+}
+.footer-section .contact-wrapper {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
 
 .footer-widget .fw-title {
 	text-transform: uppercase;
